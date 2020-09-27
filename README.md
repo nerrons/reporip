@@ -12,4 +12,4 @@ git remote set-url origin URL_OF_YOUR_NEW_REPO
 ```
 ./rip.sh YOUR_NAME YOUR_GITHUB_EMAIL
 ```
-5. `git push`
+5. `git push -f`
